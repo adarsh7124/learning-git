@@ -6,4 +6,5 @@
 
 ## Education
 - Done Graduation from Rajkiya Engineering College Ambedkar Nagar
+- 12th from KVS Gorakhpur
 
