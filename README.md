@@ -5,6 +5,11 @@
 - HTML,CSS,ReactJS
 
 ## Education
-- Done Graduation from Rajkiya Engineering College Ambedkar Nagar
+- Done BTech from Rajkiya Engineering College Ambedkar Nagar
 - 12th from KVS Gorakhpur
+
+## Hobbies
+- Playing cricket
+- reading books
+
 
