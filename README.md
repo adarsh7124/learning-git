@@ -1,16 +1,20 @@
-# Resume
-WRWR
-SFAS
-## Skills
-- C++,JavaScript,Java
-- HTML,CSS,ReactJS
+I am learning [Web Development](https://www.youtube.com/playlist?list=PLSH9gf0XETounpNfmhk3oK1iHw8oGKdzQ) From Vishal Rajput for absolutely free of cost
 
-## Education
-- Done BTech from Rajkiya Engineering College Ambedkar Nagar
-- 12th from KVS Gorakhpur
+# Students 
 
-## Hobbies
-- Playing cricket
-- reading books
+- [Vishal-raj-1](https://github.com/Vishal-raj-1)
+- [shivamkumar-007](https://github.com/shivamkumar-007)
+- [subha-guchait](https://github.com/subha-guchait)
+- [KartikeyTiwari121](https://github.com/KartikeyTiwari121)
+- [kashish119](https://github.com/kashish119)
+- [DukeHades](https://github.com/DukeHades)
+- [gagandeepsingh101](https://github.com/gagandeepsingh101)
+- [saikumarseepana](https://github.com/saikumarseepana)
+- [jayant-baid](https://github.com/jayant-baid)
+- [anamika133m](https://github.com/anamika133m)
 
+  
+# skills to learn
+- HTML
+- CSS
 
